@@ -1,2 +1,2 @@
-display = 'Not initalised'
+display = 'CM3 Booted'
 changed = False

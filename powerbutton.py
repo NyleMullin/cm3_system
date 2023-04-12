@@ -4,7 +4,7 @@ import os
 import sys
 # sys.path.append(os.path.join(os.path.dirname(__file__),'../dev_web'))
 sys.path.append('../dev_web')
-from app_threading import write_oled
+from app_final import write_oled
 import time
 
 button = Button(4, hold_time=3)

@@ -1,0 +1,10 @@
+[Unit]
+Description=This service calls poweroff.sh upon shutdown or reboot.
+
+[Service]
+Type=oneshot
+RemainAfterExit=true
+ExecStop=/sbin/poweroff.sh
+
+[Install]
+WantedBy=multi-user.target

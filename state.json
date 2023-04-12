@@ -1,15 +1,15 @@
 {
     "system": {
-        "CPU": "1.12",
-        "Mem": "Mem: 99/922 MB  10.74%",
-        "Disk": "Disk: 5/29 GB  21%",
+        "CPU": "0.55",
+        "Mem": "Mem: 126/922 MB  13.67%",
+        "Disk": "Disk: 6/29 GB  22%",
         "Hostname": "hostname: CM3\n"
     },
     "network": {
-        "IP": "192.168.168.211",
-        "MAC": "e8:4e:06:90:2b:e5\n",
+        "IP": "172.16.136.87",
+        "MAC": "e8:4e:06:8b:30:d7\n",
         "SSID": "cm3br0\n",
-        "Ports": "22\n52174\n53\n5353\n5432\n67\n68\n",
+        "Ports": "22\n37259\n53\n5353\n5432\n67\n68\n80\n",
         "Freq": "5.18 GHz\n",
         "Clients": "1\n"
     },
